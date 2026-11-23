@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Dados brutos e tratados (grandes demais para o GitHub)
+data/raw/
+data/clean/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Sistema operacional e editores
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Credenciais do Kaggle
+kaggle.json
